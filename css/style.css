@@ -1,0 +1,10 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.bg-navbar-custom {
+  background-color: rgb(235, 52, 52);
+}
+.nama-navbar {
+  font-size: 40px;
+}
